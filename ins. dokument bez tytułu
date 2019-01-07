@@ -1,0 +1,7 @@
+./server
+g++ 
+g++ server.cpp -o server
+
+
+javac Client.java
+java Client
