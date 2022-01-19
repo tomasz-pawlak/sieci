@@ -1,1 +1,2 @@
-# sieci
+# Sieci
+Student project - websockets
